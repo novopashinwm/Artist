@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Artists</string>
+    <string name="title_activity_main">Исполнители</string>
+    <string name="title_biography">Биография</string>
+    <string name="title_albums_1">%d альбом</string>
+    <string name="title_albums_2">%d альбома</string>
+    <string name="title_albums_3">%d альбомов</string>
+    <string name="title_tracks_1">%d песня</string>
+    <string name="title_tracks_2">%d песни</string>
+    <string name="title_tracks_3">%d песен</string>
+    <string name="state_no_items">Нет элементов.</string>
+</resources>
